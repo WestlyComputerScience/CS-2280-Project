@@ -1,0 +1,5 @@
+4 3
+O R O
+E E C
+E S O
+E O R

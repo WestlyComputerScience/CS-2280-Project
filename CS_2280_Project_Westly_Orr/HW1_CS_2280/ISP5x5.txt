@@ -1,0 +1,6 @@
+5 5
+O R O S O
+C E C O C
+E O O S C
+C O R E E
+E C O S C
