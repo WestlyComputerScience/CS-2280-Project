@@ -1,2 +1,2 @@
 # CS-2280-Project
-Used to calculate bandwidth companies profit on an updating grid based on user or file input.
+Collection of projects from semester 1 freshman year in college.
